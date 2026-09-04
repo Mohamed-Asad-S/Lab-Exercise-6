@@ -126,11 +126,12 @@ Kavya finds a suitable time after work and selects the appointment. She reviews 
 
 ---
 
-# 4. FLOW DIAGRAM / FLOW MAPPING
+## 4.Task: Book a Doctor Appointment
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/504d5192-10e1-4225-b7b7-370d06c734a2" />
+
+#  FLOW DIAGRAM / FLOW MAPPING
 
 <img width="1228" height="1281" alt="image" src="https://github.com/user-attachments/assets/b84d95fa-4c24-48a0-a093-36ed67bc5426" />
 
 
-## Task: Book a Doctor Appointment
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/504d5192-10e1-4225-b7b7-370d06c734a2" />
