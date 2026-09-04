@@ -131,6 +131,6 @@ Kavya finds a suitable time after work and selects the appointment. She reviews 
 <img width="1228" height="1281" alt="image" src="https://github.com/user-attachments/assets/b84d95fa-4c24-48a0-a093-36ed67bc5426" />
 
 
-# Task: Book a Doctor Appointment
+## Task: Book a Doctor Appointment
 
-<img width="536" height="703" alt="image" src="https://github.com/user-attachments/assets/790041de-a8ec-4a88-ab3e-242a5f9fa3a9" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/504d5192-10e1-4225-b7b7-370d06c734a2" />
